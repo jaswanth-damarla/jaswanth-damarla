@@ -43,5 +43,8 @@ A passionate Software Developer from India.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-damarla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Jaswanth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-damarla&bg_color=0d1117&color=ffffff&line=ff7300&point=f3f3f3&area=true&hide_border=true)
 
+<hr> 
+
+### ✍🏻Random Quote:
 
 ![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
