@@ -35,3 +35,6 @@ A passionate Software Developer from India.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/>
 </p>
+
+
+[![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth-damarla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
