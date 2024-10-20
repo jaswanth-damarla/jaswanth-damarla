@@ -45,23 +45,10 @@ A passionate Software Developer from India.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-damarla&layout=compact&theme=gruvbox)
 
-![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt)
-
-
 ![Jaswanth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-damarla&bg_color=ffffff&color=333333&line=ff7300&point=ffcc00&area=true&hide_border=true)
 
 <hr> 
 
 ### ✍🏻Random Quote:
-
-![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=cobalt)
