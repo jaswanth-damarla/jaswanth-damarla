@@ -44,7 +44,7 @@ A passionate Software Developer from India.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-damarla&layout=compact&theme=gruvbox)
 
-![Jaswanth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-damarla&bg_color=ffffff&color=333333&line=ff7300&point=ffcc00&area=true&hide_border=true)
+
 
 <hr> 
 
