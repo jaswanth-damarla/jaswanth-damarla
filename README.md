@@ -69,3 +69,6 @@ A passionate Software Developer from India.
 ### ✍🏻Random Quote:
 
 ![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=cobalt)
+
+
+![Developer Workspace](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
