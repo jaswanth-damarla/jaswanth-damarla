@@ -70,7 +70,3 @@ A passionate Software Developer from India.
 
 ![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=cobalt)
 
-
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
-![Open Source](https://img.shields.io/badge/Open%20Source-Love-%23f167f1?style=flat&logo=github)
