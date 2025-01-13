@@ -58,7 +58,7 @@ A passionate Software Developer from India.
 
 ### 📊GIT STAT:
 
-[![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth-damarla&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)     [![Jaswanth's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-damarla&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+     [![Jaswanth's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-damarla&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-damarla&layout=compact&theme=gruvbox)
 
