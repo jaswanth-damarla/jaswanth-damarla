@@ -2,7 +2,7 @@
 
 A passionate Software Developer from India. 
 
-- 🔭 I’m currently working on Open source contributions
+- 🔭 I’m currently working on Open source contributions.
 - 🌱 I’m currently learning Advanced AI&ML
 - 👯 I’m looking to collaborate on **Boston.gov**
 - 🤔 I’m looking for help with **Backend-Development**
