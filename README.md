@@ -77,6 +77,3 @@ A passionate Software Developer from India.
 ![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=cobalt)
 
 
-
-![Snake animation](https://raw.githubusercontent.com/jaswanth-damarla/jaswanth-damarla/output/github-contribution-grid-snake.svg)
-
