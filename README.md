@@ -64,18 +64,15 @@ A passionate Software Developer from India.
 
 ### 📊GIT STAT:
 
-[![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth-damarla&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
+[![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth-damarla&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Jaswanth's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-damarla&theme=gruvbox&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
 
-[![Jaswanth's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-damarla&theme=gruvbox&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-damarla&layout=compact&theme=gruvbox)
+### LeetCode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jaswanth1711?theme=unicorn&font=IBM%20Plex%20Sans%20Thai%20Looped)           ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-damarla&layout=compact&theme=gruvbox)
 
 ![Jaswanth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-damarla&bg_color=ffffff&color=333333&line=ff7300&point=ffcc00&area=true&hide_border=true)
 
 <hr> 
 
-### LeetCode:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Jaswanth1711?theme=unicorn&font=IBM%20Plex%20Sans%20Thai%20Looped)
 
 ### ✍🏻Random Quote:
 
