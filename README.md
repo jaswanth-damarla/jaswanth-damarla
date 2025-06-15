@@ -74,6 +74,9 @@ A passionate Software Developer from India.
 
 <hr> 
 
+### LeetCode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jaswanth1711?theme=unicorn&font=IBM%20Plex%20Sans%20Thai%20Looped)
+
 ### ✍🏻Random Quote:
 
 ![Jaswanth's Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=cobalt)
